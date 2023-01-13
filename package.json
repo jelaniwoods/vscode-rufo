@@ -44,8 +44,7 @@
                 "rufo.exe": {
                     "type": "string",
                     "default": "rufo",
-                    "description": "Path to invoke rufo",
-                    "scope": "application"
+                    "description": "Path to invoke rufo"
                 },
                 "rufo.useBundler": {
                     "type": "boolean",
